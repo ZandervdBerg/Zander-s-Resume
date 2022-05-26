@@ -1,7 +1,7 @@
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #FCF7F8;
+  background-color: white;
 }
 
 #profilePhoto{
@@ -34,7 +34,13 @@ h2 {
   background-color: cornflowerblue;
 }
 
-footer {
-  background-color: #343330;
+footer{
+  background-color: cornflowerblue;
   text-align: center;
+}
+
+.icons{
+  width: 3rem;
+  margin: 2rem;
+  height: auto;
 }
